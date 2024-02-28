@@ -1,4 +1,5 @@
- повідомлення
+
+//Форматування повідомлення
 
 //Оголошуємо функцію
 function formatMessage(message, maxLength) {
